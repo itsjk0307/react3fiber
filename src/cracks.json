@@ -1,0 +1,98 @@
+[
+	{
+		"name": "Crack_1",
+		"title": "Tile_1003",
+		"path": "/1-transformed.glb",
+		"crackParam": "crack_1",
+		"position": {
+			"x": 1,
+			"y": 3,
+			"z": 6
+		},
+		"lookAt": {
+			"x": 0,
+			"y": 0,
+			"z": 0
+		}
+	},
+	{
+		"name": "Crack_3",
+		"title": "Tile_1004",
+		"path": "/3-transformed.glb",
+		"crackParam": "crack_3",
+		"position": {
+			"x": 0,
+			"y": 10,
+			"z": 0
+		},
+		"lookAt": {
+			"x": 0,
+			"y": 0,
+			"z": 0
+		}
+	},
+	{
+		"name": "Crack_4",
+		"title": "Tile_1005",
+		"path": "/4-transformed.glb",
+		"crackParam": "crack_4",
+		"position": {
+			"x": 0,
+			"y": 10,
+			"z": 0
+		},
+		"lookAt": {
+			"x": 0,
+			"y": 0,
+			"z": 0
+		}
+	},
+	{
+		"name": "Crack_5",
+		"title": "Tile_1006",
+		"path": "/5-transformed.glb",
+		"crackParam": "crack_5",
+		"position": {
+			"x": 10,
+			"y": 70,
+			"z": 10
+		},
+		"lookAt": {
+			"x": 0,
+			"y": 0,
+			"z": 0
+		}
+	},
+	{
+		"name": "Crack_6",
+		"title": "Tile_1008",
+		"path": "/6-transformed.glb",
+		"crackParam": "crack_6",
+		"position": {
+			"x": 0,
+			"y": 40,
+			"z": 0
+		},
+		"lookAt": {
+			"x": 0,
+			"y": 0,
+			"z": 0
+		}
+	},
+	{
+		"name": "Crack_7",
+		"title": "Tile_1009",
+		"path": "/7-transformed.glb",
+		"crackParam": "crack_7",
+		"position": {
+			"x": 0,
+			"y": 40,
+			"z": 0
+		},
+		"lookAt": {
+			"x": 0,
+			"y": 0,
+			"z": 0
+		}
+	}
+]
